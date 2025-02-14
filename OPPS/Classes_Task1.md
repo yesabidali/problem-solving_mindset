@@ -16,10 +16,10 @@ Attribute are variable that store in class
 # Constructor
 Constructor is special method that automatically called when an object is created 
 Main purpose is to allocate memory and intilize an object 
-some constructor are: (_ _new_ _ ), (_ _ str __)
+some constructor are: (__new_ _ ), (__ str __)
 
 # Does init is really constructor and what is meaning __ (double under score in constructor)
-No init is not actually constructor it is intilizer used to intilize where as (__) double underscore. It is a dunder method it define the behaviour of your object 
+Techniqally init is not actually constructor it is intilizer used to intilize where as (__) double underscore. It is a dunder method it define the behaviour of your object (I have exaplain this in questions)
 
 # Syntax
 ```python
